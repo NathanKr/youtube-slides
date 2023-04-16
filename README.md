@@ -18,4 +18,9 @@ This is a respository for slides that i use in youtube videos
     <td><a href='https://github.com/NathanKr/youtube-slides/blob/main/slides/render-cloud-application-hosting.pdf'>slide link</a></td>
     <td><a href='https://youtu.be/TN6FuXTjQZA'>video link</a></td>
   </tr>
+  <tr>
+    <td> Browser Extension - בעברית </td>
+    <td><a href='https://github.com/NathanKr/youtube-slides/blob/main/slides/browser-extension.pdf'>slide link</a></td>
+    <td><a href='https://youtu.be/QpLAvIDSEYg'>video link</a></td>
+  </tr>
 </table>
